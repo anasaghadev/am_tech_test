@@ -35,14 +35,14 @@ php artisan migrate --seed
 
 php artisan serve
 
-#Now Open In Your Browser
+# Now Open In Your Browser
 
 http://localhost:8000
 
-#login
+# login
 
 username: admin@example.com
 password: password
 
-#start managing your tasks
+# start managing your tasks
 
